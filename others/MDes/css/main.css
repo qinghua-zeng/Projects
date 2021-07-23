@@ -1,0 +1,53 @@
+.center {
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    height: 300px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.div {
+    border: green 1px;
+    border-style: solid;
+    width: 300px;
+    text-align: center;
+}
+
+span {
+    background-color: #CCCCCC;
+    font-size: 32px;
+    font-family: "微软雅黑";
+}
+
+.input {
+    border: 1px solid #6666FF;
+}
+
+.div {
+    border: green 1px;
+    border-style: solid;
+    width: 300px;
+    text-align: center;
+}
+
+span {
+    background-color: #CCCCCC;
+    font-size: 32px;
+    font-family: "微软雅黑";
+}
+
+.input {
+    border: 1px solid #6666FF;
+}
